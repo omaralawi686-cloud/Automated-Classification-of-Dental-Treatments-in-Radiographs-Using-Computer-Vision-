@@ -91,16 +91,16 @@ Configure the training parameters (epochs, batch size, etc.).
 Start the training process and save the resulting model weights to the designated output folder.
 
 Evaluation: The training.ipynb notebook includes a section for evaluating the model performance using standard metrics (Precision, Recall, mAP) on the validation set.
+
 Citation (Submitted Manuscript)
+
 As the paper is currently under review, please use the following information to reference the work if you utilize this code or dataset in your research:
-
 Title: Automated Classification of Dental Treatments in Radiographs Using Computer Vision: A Tool for Enhancing Dental Education
-
 Authors: Behnaz Shirgir,Gulsum Asiksoy,Fadi Alturjman
-
 Status: Submitted Manuscript (Under Review at PeerJ Computer Science / Manuscript ID: 124701)
 
 Note: We kindly request that you cite the final published version once it becomes available.
 
 License
+
 The code and associated materials in this repository are released under the [MIT/Apache 2.0] license. This grants permission for academic, non-commercial, and research use.
